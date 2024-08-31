@@ -13,7 +13,7 @@ Code stack
 Design / Style stack
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,css,html,xd,threejs,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,xd,html,css,threejs,tailwind&theme=dark)](https://skillicons.dev)
 <br/>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
