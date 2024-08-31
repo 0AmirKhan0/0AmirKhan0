@@ -1,10 +1,3 @@
-
-<p align="center">
-    <img src="/assets/NextJs.gif" width="100%" height="auto" alt="NextJs logo"/>
-</p>
-
-<br/>
-
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a Computer Science student passionate about web development. Currently, I'm focused on learning **Next.js** and **React** to build dynamic and efficient web applications. I love exploring new technologies and packaging them into practical projects. 
