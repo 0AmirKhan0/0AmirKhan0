@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Computer Science student passionate about web development. Currently, I'm focused on learning **Next.js** and **React** to build dynamic and efficient web applications. I love exploring new technologies and packaging them into practical projects. 
+I'm a Computer Engineering student passionate about web development. Currently, I'm focused on learning **Next.js** and **React** to build dynamic and efficient web applications. I love exploring new technologies and packaging them into practical projects. 
 
 Feel free to check out my repositories to see what I'm working on!
 
